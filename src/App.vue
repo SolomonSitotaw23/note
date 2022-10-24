@@ -1,6 +1,6 @@
 <template>
   <NavBar></NavBar>
-  <div class="p-4 flex justify-center">
+  <div class="flex justify-center">
     <router-view></router-view>
   </div>
 </template>
